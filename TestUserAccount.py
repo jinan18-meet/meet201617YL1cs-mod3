@@ -5,7 +5,6 @@ from UserAccount import UserAccount
 my_user=UserAccount(  ,  ,  )
 
 #Call the print_secret method (function) - it takes one input - a guess for the password.
-
 #Use the wrong password as input here
 my_user.
 
